@@ -21,6 +21,7 @@
 		417B1B0F1C05467A00C3BF3A /* UserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417B1B0E1C05467A00C3BF3A /* UserViewController.swift */; };
 		417B1B111C05477A00C3BF3A /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417B1B101C05477A00C3BF3A /* UserViewModel.swift */; };
 		41DBB36E1C0AAD0500121F2E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DBB36D1C0AAD0500121F2E /* LoginViewController.swift */; };
+		41DBB3701C0B7C4200121F2E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 41DBB36F1C0B7C4200121F2E /* .gitignore */; };
 		94FABED265AE507864122008 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F651D00A2E2142A136856B8D /* Pods.framework */; };
 /* End PBXBuildFile section */
 
@@ -63,6 +64,7 @@
 		417B1B0E1C05467A00C3BF3A /* UserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserViewController.swift; sourceTree = "<group>"; };
 		417B1B101C05477A00C3BF3A /* UserViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
 		41DBB36D1C0AAD0500121F2E /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		41DBB36F1C0B7C4200121F2E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 		51770EE808F6FF417DE82C85 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		F651D00A2E2142A136856B8D /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -129,6 +131,7 @@
 				41DBB36D1C0AAD0500121F2E /* LoginViewController.swift */,
 				417B1ADC1C028EED00C3BF3A /* Main.storyboard */,
 				417B1ADF1C028EED00C3BF3A /* Assets.xcassets */,
+				41DBB36F1C0B7C4200121F2E /* .gitignore */,
 				417B1AE11C028EED00C3BF3A /* LaunchScreen.storyboard */,
 				417B1AE41C028EED00C3BF3A /* Info.plist */,
 			);
@@ -277,6 +280,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41DBB3701C0B7C4200121F2E /* .gitignore in Resources */,
 				417B1AE31C028EED00C3BF3A /* LaunchScreen.storyboard in Resources */,
 				417B1AE01C028EED00C3BF3A /* Assets.xcassets in Resources */,
 				417B1ADE1C028EED00C3BF3A /* Main.storyboard in Resources */,
