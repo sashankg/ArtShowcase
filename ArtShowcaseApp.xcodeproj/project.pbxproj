@@ -98,6 +98,7 @@
 		417B1ACC1C028EED00C3BF3A = {
 			isa = PBXGroup;
 			children = (
+				41DBB36F1C0B7C4200121F2E /* .gitignore */,
 				417B1AD71C028EED00C3BF3A /* ArtShowcaseApp */,
 				417B1AEC1C028EEE00C3BF3A /* ArtShowcaseAppTests */,
 				417B1AF71C028EEE00C3BF3A /* ArtShowcaseAppUITests */,
@@ -131,7 +132,6 @@
 				41DBB36D1C0AAD0500121F2E /* LoginViewController.swift */,
 				417B1ADC1C028EED00C3BF3A /* Main.storyboard */,
 				417B1ADF1C028EED00C3BF3A /* Assets.xcassets */,
-				41DBB36F1C0B7C4200121F2E /* .gitignore */,
 				417B1AE11C028EED00C3BF3A /* LaunchScreen.storyboard */,
 				417B1AE41C028EED00C3BF3A /* Info.plist */,
 			);
