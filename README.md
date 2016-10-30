@@ -1,8 +1,8 @@
 # ArtShowcase
 Education and social network platform for local artists
 
-[![Learn Demo](http://i.imgur.com/4anzHXZ.gif)](https://youtu.be/zYxCdS9KUJE)
-[![Share Demo](http://i.imgur.com/4anzHXZ.gif)](https://youtu.be/SJilSQmRL_A)
+[![Learn Demo](https://cdn.rawgit.com/sashankg/ArtShowcase/master/4O4KLdv%20-%20Imgur.gif)](https://youtu.be/zYxCdS9KUJE)
+[![Share Demo](https://cdn.rawgit.com/sashankg/ArtShowcase/master/4anzHXZ%20-%20Imgur.gif)](https://youtu.be/SJilSQmRL_A)
 
 ## Background
 The app is designed to make it easier for artists living in the same area to connect. Houston Art Showcase is a nonprofit organization that hosts competitions for artists and brings together. While I was working with them, I started development of this app that had 3 main functionalities:
